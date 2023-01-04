@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: com.example.tictactoefx.TicTactoeApplication
+Class-Path: javafx-swt.jar javafx.web.jar javafx.base.jar javafx.fxml.ja
+ r javafx.media.jar javafx.swing.jar javafx.controls.jar javafx.graphics
+ .jar javafx-graphics-19-mac.jar javafx-base-19-mac.jar javafx-fxml-19.j
+ ar javafx-controls-19.jar javafx-controls-19-mac.jar javafx-base-19.jar
+  javafx-fxml-19-mac.jar javafx-graphics-19.jar
+

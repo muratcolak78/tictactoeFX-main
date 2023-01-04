@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="tictactoeFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tictactoeFX_jar</output-path>
+    <root id="root">
+      <element id="archive" name="tictactoeFX.jar">
+        <element id="module-output" name="tictactoeFX" />
+      </element>
+      <element id="library" level="project" name="lib" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:mac:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:mac:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:mac:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:mac:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:19" />
+    </root>
+  </artifact>
+</component>
